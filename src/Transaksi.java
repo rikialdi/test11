@@ -1,4 +1,4 @@
-public class Barang {
+public class Transaksi {
 
     // revisi penambahan
 //sdsd
