@@ -6,4 +6,8 @@ public class Barang {
     public static void main(String[] r){
     //ini penamabahn dari github langsung
     }
+
+    public void updateMethod(){
+
+    }
 }
